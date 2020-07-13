@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MatchAllFilter
+comment1.params=fil
+comment1.target=void\ AddFilter(Filter)
+comment2.params=q
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
